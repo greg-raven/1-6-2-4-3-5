@@ -1,9 +1,9 @@
-# Redirect default Netlify subdomain to primary domain
+# Redirect default subdomain to primary domain
 
 # http://162435.club/*          https://www.162435.club/:splat 301!
-# http://162435.netlify.app/*   https://www.162435.club/:splat 301!
+# http://162435.pages.dev/*     https://www.162435.club/:splat 301!
 # https://162435.club/*         https://www.162435.club/:splat 301!
-# https://162435.netlify.app/*  https://www.162435.club/:splat 301!
+# https://162435.pages.dev/*    https://www.162435.club/:splat 301!
 
 # redirect site icons
 
